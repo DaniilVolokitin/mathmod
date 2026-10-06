@@ -221,3 +221,6 @@ labs/01_meshes/stage0/
 
 # Все файлы сеток Gmsh во всём репозитории
 *.msh
+
+# Generated VTK frames for ParaView
+labs/02_vtk/frames/
